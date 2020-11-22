@@ -1,0 +1,114 @@
+= Описание API по товарам
+
+== Методы
+
+|===
+|Метод | Назначение
+|`PUT`
+|Добавить существующий товар в корзину пользователя
+|===
+
+=== Добавление товара в корзину
+
+
+.request
+
+include::{snippets}\product_addToCart\http-request.adoc[]
+
+.response
+
+include::{snippets}\product_addToCart\http-response.adoc[]
+
+.response-fields
+
+include::{snippets}\product_addToCart\response-fields.adoc[]
+
+
+
+== Методы
+
+|===
+|Метод | Назначение
+|`Delete`
+|Удалить товар с корзины пользователя
+|===
+
+=== Удаление товара из корзины
+
+
+.request
+
+include::{snippets}\product_deleteFromCart\http-request.adoc[]
+
+.response
+
+include::{snippets}\product_deleteFromCart\http-response.adoc[]
+
+.response-fields
+
+include::{snippets}\product_deleteFromCart\response-fields.adoc[]
+
+= Описание API по корзине
+
+== Методы
+
+|===
+|Метод | Назначение
+|`DELETE`
+|Удалить все товары с корзины пользователя
+|===
+
+.request
+
+include::{snippets}\cart_deleteAll\http-request.adoc[]
+
+.response
+
+include::{snippets}\cart_deleteAll\http-response.adoc[]
+
+.response-fields
+
+include::{snippets}\cart_deleteAll\response-fields.adoc[]
+
+
+== Методы
+
+|===
+|Метод | Назначение
+|`PUT`
+|Применить купон для корзины
+|===
+
+.request
+
+include::{snippets}\cart_coupon\http-request.adoc[]
+
+.response
+
+include::{snippets}\cart_coupon\http-response.adoc[]
+
+.response-fields
+
+include::{snippets}\cart_coupon\response-fields.adoc[]
+
+= Описание API по заказам
+
+== Методы
+
+|===
+|Метод | Назначение
+|`POST`
+|Оформить заказ
+|===
+
+.request
+
+include::{snippets}\orders\http-request.adoc[]
+
+.response
+
+include::{snippets}\orders\http-response.adoc[]
+
+.response-fields
+
+include::{snippets}\orders\response-fields.adoc[]

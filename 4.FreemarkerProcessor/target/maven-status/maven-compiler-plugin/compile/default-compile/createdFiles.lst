@@ -1,0 +1,8 @@
+ru\itis\Food.class
+ru\itis\User.class
+ru\itis\HtmlField.class
+ru\itis\enums\FormMethod.class
+ru\itis\InputDto.class
+ru\itis\HtmlForm.class
+ru\itis\enums\InputType.class
+ru\itis\HtmlProcessor.class
