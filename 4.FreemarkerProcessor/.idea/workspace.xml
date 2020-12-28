@@ -1,11 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c68d5cd5-62f9-4207-9d9e-2ca68104e25a" name="Default Changelist" comment="" />
+    <list default="true" id="c68d5cd5-62f9-4207-9d9e-2ca68104e25a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -16,6 +32,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
       <MavenImportingSettings>
@@ -24,6 +43,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1kWDLmCDA24bRd7hEsTljXcSROK" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -33,12 +53,13 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../3. Hateoas" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -53,6 +74,10 @@
       <workItem from="1605807405044" duration="1891000" />
       <workItem from="1605809692106" duration="8951000" />
       <workItem from="1605875905412" duration="7922000" />
+      <workItem from="1608069649470" duration="1236000" />
+      <workItem from="1608591622408" duration="1100000" />
+      <workItem from="1608961413213" duration="4000" />
+      <workItem from="1609162608640" duration="768000" />
     </task>
     <servers />
   </component>
@@ -64,10 +89,10 @@
       <screen x="0" y="0" width="1280" height="720" />
     </state>
     <state x="446" y="78" key="#com.intellij.ide.util.MemberChooser/0.0.1280.720@0.0.1280.720" timestamp="1605929534825" />
-    <state x="100" y="128" key="FileChooserDialogImpl" timestamp="1605984571756">
+    <state x="100" y="128" key="FileChooserDialogImpl" timestamp="1609170057416">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state x="100" y="128" key="FileChooserDialogImpl/0.0.1280.720@0.0.1280.720" timestamp="1605984571756" />
+    <state x="100" y="128" key="FileChooserDialogImpl/0.0.1280.720@0.0.1280.720" timestamp="1609170057416" />
     <state width="595" height="176" key="GridCell.Tab.0.bottom" timestamp="1605984573134">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
@@ -84,6 +109,18 @@
       <screen x="0" y="0" width="1280" height="720" />
     </state>
     <state width="595" height="176" key="GridCell.Tab.0.right/0.0.1280.720@0.0.1280.720" timestamp="1605984573134" />
+    <state x="110" y="8" key="SettingsEditor" timestamp="1608593606990">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="110" y="8" key="SettingsEditor/0.0.1280.720@0.0.1280.720" timestamp="1608593606990" />
+    <state x="91" y="0" key="new project wizard" timestamp="1609170093479">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="91" y="0" key="new project wizard/0.0.1280.720@0.0.1280.720" timestamp="1609170093479" />
+    <state x="330" y="211" width="705" height="497" key="org.intellij.images.editor.actions.BackgroundImageDialog" timestamp="1608593603568">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="330" y="211" width="705" height="497" key="org.intellij.images.editor.actions.BackgroundImageDialog/0.0.1280.720@0.0.1280.720" timestamp="1608593603568" />
     <state x="297" y="161" key="run.anything.popup" timestamp="1605928930033">
       <screen x="0" y="0" width="1280" height="720" />
     </state>

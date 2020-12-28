@@ -1,0 +1,9 @@
+POST http://localhost:80/paint
+Content-Type: application/json
+
+{
+  "_id": "1",
+  "color": "red"
+}
+
+###
