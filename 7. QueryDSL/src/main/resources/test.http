@@ -1,0 +1,4 @@
+GET http://localhost:80/user?cars.id=4
+Accept: application/json
+
+###
